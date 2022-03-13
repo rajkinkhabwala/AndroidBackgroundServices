@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FileDownloader</string>
+    <string name="title">PDF Download Activity</string>
+    <string name="description">Please Provide list of 5 PDFs to download.</string>
+    <string name="inputText1">https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf</string>
+    <string name="inputText2">https://hadoop.apache.org/docs/r1.2.1/hdfs_design.pdf</string>
+    <string name="inputText3">https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf</string>
+    <string name="inputText4">https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/wellarchitected-machine-learning-lens.pdf</string>
+    <string name="inputText5">https://developers.snowflake.com/wp-content/uploads/2020/09/SNO-eBook-7-Reference-Architectures-for-Application-Builders-MachineLearning-DataScience.pdf</string>
+    <string name="downloadButtonString">Download</string>
+    <string name="actionDownloadButtonString">Downloading...</string>
+</resources>
